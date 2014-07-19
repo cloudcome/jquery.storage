@@ -1,0 +1,27 @@
+{
+  "name": "jquery.storage",
+  "version": "1.1.1",
+  "description": "客户端本地存储，包括localStorage 或 sessionStorage",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "localStorage",
+    "sessionStorage",
+    "storage"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery.storage"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery.storage.js",
+    "dependencies": {}
+  }
+}
